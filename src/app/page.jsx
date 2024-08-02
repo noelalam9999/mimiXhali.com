@@ -32,7 +32,7 @@ export default function Home() {
       {yes && <Confetti width={width} height={height} />}{" "}
       <div className="flex w-screen h-screen justify-center items-center">
         <div className=" flex flex-col w-[90vw] h-[90vh] bg-white rounded shadow-md items-center justify-evenly">
-          <p className="text-center text-2xl font-sans font-averta">
+          <p className="text-center text-2xl text-black font-sans font-averta">
             Thank you for 30years of companionship would you like to renew for
             30 more?
           </p>
